@@ -1,0 +1,8 @@
+[submodule "game-to-job-back"]
+	path = game-to-job-back
+	url = git@github.com:AshidaSRS/game-to-job-back.git
+	branch = master
+[submodule "game-to-job-web"]
+	path = game-to-job-web
+	url = git@github.com:AshidaSRS/game-to-job-web.git
+	branch = master
